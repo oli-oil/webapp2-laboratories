@@ -21,5 +21,3 @@ try {
     echo $e->getMessage();
 
 }
-
-end of activity
